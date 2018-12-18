@@ -1,0 +1,758 @@
+Index;Region;RSS
+1;Central Alaska;Central Alaska
+2;Southern Alaska;Southern Alaska
+3;Bering Sea;Bering Sea
+4;Komandorsky Islands Region;Komandorsky Islands Region
+5;Near Islands  Aleutian Islands;Near Islands
+6;Rat Islands  Aleutian Islands;Rat Islands
+7;Andreanof Islands  Aleutian Islands;Andreanof Islands
+8;Pribilof Islands  Alaska Region;Pribilof Islands
+9;Fox Islands  Aleutian Islands;Fox Islands
+10;Unimak Island Region  Alaska;Unimak Island Region
+11;Bristol Bay;Bristol Bay
+12;Alaska Peninsula;Alaska Peninsula
+13;Kodiak Island Region  Alaska;Kodiak Island Region
+14;Kenai Peninsula  Alaska;Kenai Peninsula
+15;Gulf of Alaska;Gulf of Alaska
+16;South of Aleutian Islands;South of Aleutian Islands
+17;South of Alaska;South of Alaska
+18;Southern Yukon Territory  Canada;Southern Yukon Territory
+19;Southeastern Alaska;Southeastern Alaska
+20;Off Coast of Southeastern Alaska;Off Coast of Southeastern Alaska
+21;West of Vancouver Island;West of Vancouver Island
+22;Queen Charlotte Islands Region;Queen Charlotte Islands Region
+23;British Columbia  Canada;British Columbia
+24;Alberta  Canada;Alberta
+25;Vancouver Island  Canada Region;Vancouver Island
+26;Off Coast of Washington;Off Coast of Washington
+27;Near Coast of Washington;Near Coast of Washington
+28;Washington–Oregon Border Region;Washington–Oregon Border Region
+29;Washington;Washington
+30;Off Coast of Oregon;Off Coast of Oregon
+31;Near Coast of Oregon;Near Coast of Oregon
+32;Oregon;Oregon
+33;Western Idaho;Western Idaho
+34;Off Coast of Northern California;Off Coast of Northern California
+35;Near Coast of Northern California;Near Coast of Northern California
+36;Northern California;Northern California
+37;Nevada;Nevada
+38;Off Coast of California;Off Coast of California
+39;Central California;Central California
+40;California–Nevada Border Region;California–Nevada Border Region
+41;Southern Nevada;Southern Nevada
+42;Western Arizona;Western Arizona
+43;Southern California;Southern California
+44;California–Arizona Border Region;California–Arizona Border Region
+45;California–Baja California Border Region;California–Baja California Border Region
+46;Western Arizona–Sonora Border Region;Western Arizona–Sonora Border Region
+47;Off Western Coast of Baja California;Off Western Coast of Baja California
+48;Baja California  Mexico;Baja California
+49;Gulf of California;Gulf of California
+50;Sonora  Mexico;Sonora
+51;Off Coast of Central Mexico;Off Coast of Central Mexico
+52;Near Coast of Central Mexico;Near Coast of Central Mexico
+53;Revilla Gigedo Islands Region;Revilla Gigedo Islands Region
+54;Off Coast of Jalisco  Mexico;Off Coast of Jalisco
+55;Near Coast of Jalisco  Mexico;Near Coast of Jalisco
+56;Near Coast of Michoacan  Mexico;Near Coast of Michoacan
+57;Michoacan  Mexico;Michoacan
+58;Near Coast of Guerrero  Mexico;Near Coast of Guerrero
+59;Guerrero  Mexico;Guerrero
+60;Oaxaca  Mexico;Oaxaca
+61;Chiapas  Mexico;Chiapas
+62;Mexico–Guatemala Border Region;Mexico–Guatemala Border Region
+63;Off Coast of Mexico;Off Coast of Mexico
+64;Off Coast of Michoacan  Mexico;Off Coast of Michoacan
+65;Off Coast of Guerrero  Mexico;Off Coast of Guerrero
+66;Near Coast of Oaxaca  Mexico;Near Coast of Oaxaca
+67;Off Coast of Oaxaca  Mexico;Off Coast of Oaxaca
+68;Off Coast of Chiapas  Mexico;Off Coast of Chiapas
+69;Near Coast of Chiapas  Mexico;Near Coast of Chiapas
+70;Guatemala;Guatemala
+71;Near Coast of Guatemala;Near Coast of Guatemala
+730;Northern East Pacific Rise;Northern East Pacific Rise
+72;Honduras;Honduras
+73;El Salvador;El Salvador
+74;Near Coast of Nicaragua;Near Coast of Nicaragua
+75;Nicaragua;Nicaragua
+76;Off Coast of Central America;Off Coast of Central America
+77;Off Coast of Costa Rica;Off Coast of Costa Rica
+78;Costa Rica;Costa Rica
+79;North of Panama;North of Panama
+80;Panama–Costa Rica Border Region;Panama–Costa Rica Border Region
+81;Panama;Panama
+82;Panama–Colombia Border Region;Panama–Colombia Border Region
+83;South of Panama;South of Panama
+84;Yucatán Peninsula  Mexico;Yucatán Peninsula
+85;Cuba Region;Cuba Region
+86;Jamaica Region;Jamaica Region
+87;Haiti Region;Haiti Region
+88;Dominican Republic Region;Dominican Republic Region
+89;Mona Passage;Mona Passage
+90;Puerto Rico Region;Puerto Rico Region
+91;Virgin Islands;Virgin Islands
+92;Leeward Islands;Leeward Islands
+93;Belize;Belize
+94;Caribbean Sea;Caribbean Sea
+95;Windward Islands;Windward Islands
+96;Near North Coast of Colombia;Near North Coast of Colombia
+97;Near Coast of Venezuela;Near Coast of Venezuela
+98;Trinidad;Trinidad
+99;Northern Colombia;Northern Colombia
+100;Lake Maracaibo  Venezuela;Lake Maracaibo
+101;Venezuela;Venezuela
+731;North of Honduras;North of Honduras
+102;Near West Coast of Colombia;Near West Coast of Colombia
+103;Colombia;Colombia
+104;Off Coast of Ecuador;Off Coast of Ecuador
+105;Near Coast of Ecuador;Near Coast of Ecuador
+106;Colombia–Ecuador Border Region;Colombia–Ecuador Border Region
+107;Ecuador;Ecuador
+108;Off Coast of Northern Peru;Off Coast of Northern Peru
+109;Near Coast of Northern Peru;Near Coast of Northern Peru
+110;Peru–Ecuador Border Region;Peru–Ecuador Border Region
+111;Northern Peru;Northern Peru
+112;Peru–Brazil Border Region;Peru–Brazil Border Region
+113;Western Brazil;Western Brazil
+114;Off Coast of Peru;Off Coast of Peru
+115;Near Coast of Peru;Near Coast of Peru
+116;Central Peru;Central Peru
+117;Southern Peru;Southern Peru
+118;Peru–Bolivia Border Region;Peru–Bolivia Border Region
+119;Northern Bolivia;Northern Bolivia
+120;Central Bolivia;Central Bolivia
+121;Off Coast of Northern Chile;Off Coast of Northern Chile
+122;Near Coast of Northern Chile;Near Coast of Northern Chile
+123;Northern Chile;Northern Chile
+124;Chile–Bolivia Border Region;Chile–Bolivia Border Region
+125;Southern Bolivia;Southern Bolivia
+126;Paraguay;Paraguay
+127;Chile–Argentina Border Region;Chile–Argentina Border Region
+128;Jujuy Province  Argentina;Jujuy Province
+129;Salta Province  Argentina;Salta Province
+130;Catamarca Province  Argentina;Catamarca Province
+131;Tucuman Province  Argentina;Tucuman Province
+132;Santiago Del Estero Province  Argentina;Santiago Del Estero Province
+133;Northeastern Argentina;Northeastern Argentina
+134;Off Coast of Central Chile;Off Coast of Central Chile
+135;Near Coast of Central Chile;Near Coast of Central Chile
+136;Central Chile;Central Chile
+137;San Juan Province  Argentina;San Juan Province
+138;La Rioja Province  Argentina;La Rioja Province
+139;Mendoza Province  Argentina;Mendoza Province
+140;San Luis Province  Argentina;San Luis Province
+141;Cordoba Province  Argentina;Cordoba Province
+142;Uruguay;Uruguay
+143;Off Coast of Southern Chile;Off Coast of Southern Chile
+144;Southern Chile;Southern Chile
+145;Southern Chile–Argentina Border Region;Southern Chile–Argentina Border Region
+146;Southern Argentina;Southern Argentina
+147;Tierra Del Fuego;Tierra Del Fuego
+148;Falkland Islands Region;Falkland Islands Region
+149;Drake Passage;Drake Passage
+150;Scotia Sea;Scotia Sea
+151;South Georgia Island Region;South Georgia Island Region
+152;South Georgia Rise;South Georgia Rise
+153;South Sandwich Islands Region;South Sandwich Islands Region
+154;South Shetland Islands;South Shetland Islands
+155;Antarctic Peninsula;Antarctic Peninsula
+156;Southwestern Atlantic Ocean;Southwestern Atlantic Ocean
+157;Weddell Sea;Weddell Sea
+732;East of South Sandwich Islands;East of South Sandwich Islands
+158;Off West Coast of North Island  New Zealand;Off West Coast of North Island
+159;North Island  New Zealand;North Island
+160;Off East Coast of North Island  New Zealand;Off East Coast of North Island
+161;Off West Coast of South Island  New Zealand;Off West Coast of South Island
+162;South Island  New Zealand;South Island
+163;Cook Strait  New Zealand;Cook Strait
+164;Off East Coast of South Island  New Zealand;Off East Coast of South Island
+165;North of Macquarie Island;North of Macquarie Island
+166;Auckland Islands  New Zealand Region;Auckland Islands
+167;Macquarie Island Region;Macquarie Island Region
+168;South of New Zealand;South of New Zealand
+169;Samoa Islands Region;Samoa Islands Region
+170;Samoa Islands;Samoa Islands
+171;South of Fiji Islands;South of Fiji Islands
+172;West of Tonga Islands;West of Tonga Islands
+173;Tonga Islands;Tonga Islands
+174;Tonga Islands Region;Tonga Islands Region
+175;South of Tonga Islands;South of Tonga Islands
+176;North of New Zealand;North of New Zealand
+177;Kermadec Islands Region;Kermadec Islands Region
+178;Kermadec Islands  New Zealand;Kermadec Islands
+179;South of Kermadec Islands;South of Kermadec Islands
+180;North of Fiji Islands;North of Fiji Islands
+181;Fiji Islands Region;Fiji Islands Region
+182;Fiji Islands;Fiji Islands
+183;Santa Cruz Islands Region;Santa Cruz Islands Region
+184;Santa Cruz Islands;Santa Cruz Islands
+185;Vanuatu Islands Region;Vanuatu Islands Region
+186;Vanuatu Islands;Vanuatu Islands
+187;New Caledonia;New Caledonia
+188;Loyalty Islands;Loyalty Islands
+189;Southeast of Loyalty Islands;Southeast of Loyalty Islands
+190;New Ireland Region  Papua New Guinea;New Ireland Region
+191;North of Solomon Islands;North of Solomon Islands
+192;New Britain Region  Papua New Guinea;New Britain Region
+193;Solomon Islands;Solomon Islands
+194;D'Entrecasteaux Islands Region;D'Entrecasteaux Islands Region
+195;South of Solomon Islands;South of Solomon Islands
+196;Irian Jaya Region  Indonesia;Irian Jaya Region
+197;Near North Coast of Irian Jaya;Near North Coast of Irian Jaya
+198;Ninigo Islands Region  Papua New Guinea;Ninigo Islands Region
+199;Admiralty Islands Region  Papua New Guinea;Admiralty Islands Region
+200;Near North Coast of New Guinea  Papua New Guinea;Near North Coast of New Guinea
+201;Irian Jaya  Indonesia;Irian Jaya
+202;New Guinea  Papua New Guinea;New Guinea
+203;Bismarck Sea;Bismarck Sea
+204;Aru Islands Region  Indonesia;Aru Islands Region
+205;Near South Coast of Irian Jaya;Near South Coast of Irian Jaya
+206;Near South Coast of New Guinea  Papua New Guinea;Near South Coast of New Guinea
+207;Eastern New Guinea Region  Papua New Guinea;Eastern New Guinea Region
+208;Arafura Sea;Arafura Sea
+209;Western Caroline Islands  Micronesia;Western Caroline Islands
+210;South of Mariana Islands;South of Mariana Islands
+211;Southeast of Honshu  Japan;Southeast of Honshu
+212;Bonin Islands  Japan Region;Bonin Islands
+213;Volcano Islands  Japan Region;Volcano Islands
+214;West of Mariana Islands;West of Mariana Islands
+215;Mariana Islands Region;Mariana Islands Region
+216;Mariana Islands;Mariana Islands
+217;Kamchatka Peninsula  Russia;Kamchatka Peninsula
+218;Near East Coast of Kamchatka;Near East Coast of Kamchatka
+219;Off East Coast of Kamchatka;Off East Coast of Kamchatka
+220;Northwest of Kuril Islands;Northwest of Kuril Islands
+221;Kuril Islands;Kuril Islands
+222;East of Kuril Islands;East of Kuril Islands
+223;Eastern Sea of Japan;Eastern Sea of Japan
+224;Hokkaido  Japan Region;Hokkaido
+225;Off Coast of Hokkaido  Japan;Off Coast of Hokkaido
+226;Near West Coast of Honshu  Japan;Near West Coast of Honshu
+227;Eastern Honshu  Japan;Eastern Honshu
+228;Near East Coast of Honshu  Japan;Near East Coast of Honshu
+229;Off East Coast of Honshu  Japan;Off East Coast of Honshu
+230;Near South Coast of Honshu  Japan;Near South Coast of Honshu
+231;South Korea;South Korea
+232;Western Honshu  Japan;Western Honshu
+233;Near South Coast of Western Honshu;Near South Coast of Western Honshu
+234;Northwest of Ryukyu Islands;Northwest of Ryukyu Islands
+235;Kyushu  Japan;Kyushu
+236;Shikoku  Japan;Shikoku
+237;Southeast of Shikoku  Japan;Southeast of Shikoku
+238;Ryukyu Islands  Japan;Ryukyu Islands
+239;Southeast of Ryukyu Islands;Southeast of Ryukyu Islands
+240;West of Bonin Islands;West of Bonin Islands
+241;Philippine Sea;Philippine Sea
+242;Near Coast of southeastern China;Near Coast of southeastern China
+243;Taiwan Region;Taiwan Region
+244;Taiwan;Taiwan
+245;Northeast of Taiwan;Northeast of Taiwan
+246;Southwestern Ryukyu Islands  Japan;Southwestern Ryukyu Islands
+247;Southeast of Taiwan;Southeast of Taiwan
+248;Philippine Islands Region;Philippine Islands Region
+249;Luzon  Philippines;Luzon
+250;Mindoro  Philippines;Mindoro
+251;Samar  Philippines;Samar
+252;Palawan  Philippines;Palawan
+253;Sulu Sea;Sulu Sea
+254;Panay  Philippines;Panay
+255;Cebu  Philippines;Cebu
+256;Leyte  Philippines;Leyte
+257;Negros  Philippines;Negros
+258;Sulu Archipelago  Philippines;Sulu Archipelago
+259;Mindanao  Philippines;Mindanao
+260;East of Philippine Islands;East of Philippine Islands
+261;Borneo;Borneo
+262;Celebes Sea;Celebes Sea
+263;Talaud Islands  Indonesia;Talaud Islands
+264;North of Halmahera  Indonesia;North of Halmahera
+265;Minahassa Peninsula  Sulawesi;Minahassa Peninsula
+266;Northern Molucca Sea;Northern Molucca Sea
+267;Halmahera  Indonesia;Halmahera
+268;Sulawesi  Indonesia;Sulawesi
+269;Southern Molucca Sea;Southern Molucca Sea
+270;Ceram Sea;Ceram Sea
+271;Buru  Indonesia;Buru
+272;Seram  Indonesia;Seram
+273;Southwest of Sumatra  Indonesia;Southwest of Sumatra
+274;Southern Sumatra  Indonesia;Southern Sumatra
+275;Java Sea;Java Sea
+276;Sunda Strait  Indonesia;Sunda Strait
+277;Java  Indonesia;Java
+278;Bali Sea;Bali Sea
+279;Flores Sea;Flores Sea
+280;Banda Sea;Banda Sea
+281;Tanimbar Islands Region  Indonesia;Tanimbar Islands Region
+282;South of Java  Indonesia;South of Java
+283;Bali Region  Indonesia;Bali Region
+284;South of Bali  Indonesia;South of Bali
+285;Sumbawa Region  Indonesia;Sumbawa Region
+286;Flores Region  Indonesia;Flores Region
+287;Sumba Region  Indonesia;Sumba Region
+288;Savu Sea;Savu Sea
+289;Timor Region;Timor Region
+290;Timor Sea;Timor Sea
+291;South of Sumbawa  Indonesia;South of Sumbawa
+292;South of Sumba  Indonesia;South of Sumba
+293;South of Timor  Indonesia;South of Timor
+294;Myanmar–India Border Region;Myanmar–India Border Region
+295;Myanmar–Bangladesh Border Region;Myanmar–Bangladesh Border Region
+296;Myanmar;Myanmar
+297;Myanmar–China Border Region;Myanmar–China Border Region
+298;Near South Coast of Myanmar;Near South Coast of Myanmar
+299;Southeast Asia;Southeast Asia
+300;Hainan Island  China;Hainan Island
+301;South China Sea;South China Sea
+733;Thailand;Thailand
+734;Laos;Laos
+735;Cambodia;Cambodia
+736;Vietnam;Vietnam
+737;Gulf of Tongking;Gulf of Tongking
+302;Eastern Kashmir;Eastern Kashmir
+303;Kashmir–India Border Region;Kashmir–India Border Region
+304;Kashmir–Xizang Border Region;Kashmir–Xizang Border Region
+305;Western Xizang–India Border Region;Western Xizang–India Border Region
+306;Xizang;Xizang
+307;Sichuan  China;Sichuan
+308;Northern India;Northern India
+309;Nepal-India Border Region;Nepal-India Border Region
+310;Nepal;Nepal
+311;Sikkim  India;Sikkim
+312;Bhutan;Bhutan
+313;Eastern Xizang–India Border Region;Eastern Xizang–India Border Region
+314;Southern India;Southern India
+315;India–Bangladesh Border Region;India–Bangladesh Border Region
+316;Bangladesh;Bangladesh
+317;Northeastern India;Northeastern India
+318;Yunnan  China;Yunnan
+319;Bay of Bengal;Bay of Bengal
+320;Kyrgyzstan–Xinjiang Border Region;Kyrgyzstan–Xinjiang Border Region
+321;Southern Xinjiang  China;Southern Xinjiang
+322;Gansu  China;Gansu
+323;Western Nei Mongol  China;Western Nei Mongol
+324;Kashmir–Xinjiang Border Region;Kashmir–Xinjiang Border Region
+325;Qinghai  China;Qinghai
+326;Southwestern Siberia  Russia;Southwestern Siberia
+327;Lake Baykal Region  Russia;Lake Baykal Region
+328;East of Lake Baykal  Russia;East of Lake Baykal
+329;Eastern Kazakhstan;Eastern Kazakhstan
+330;Lake Issyk-Kul region;Lake Issyk-Kul region
+331;Kazakhstan–Xinjiang Border Region;Kazakhstan–Xinjiang Border Region
+332;Northern Xinjiang  China;Northern Xinjiang
+333;Russia–Mongolia Border Region;Russia–Mongolia Border Region
+334;Mongolia;Mongolia
+335;Ural Mountains Region  Russia;Ural Mountains Region
+336;Western Kazakhstan;Western Kazakhstan
+337;Eastern Caucasus;Eastern Caucasus
+338;Caspian Sea;Caspian Sea
+339;Northwestern Uzbekistan;Northwestern Uzbekistan
+340;Turkmenistan;Turkmenistan
+341;Turkmenistan–Iran Border Region;Turkmenistan–Iran Border Region
+342;Turkmenistan–Afghanistan Border Region;Turkmenistan–Afghanistan Border Region
+343;Turkey–Iran Border Region;Turkey–Iran Border Region
+344;Armenia–Azerbaijan–Iran Border Region;Armenia–Azerbaijan–Iran Border Region
+345;Northwestern Iran;Northwestern Iran
+346;Iran–Iraq Border Region;Iran–Iraq Border Region
+347;Western Iran;Western Iran
+348;Northern and Central Iran;Northern and Central Iran
+349;Northwestern Afghanistan;Northwestern Afghanistan
+350;Southwestern Afghanistan;Southwestern Afghanistan
+351;Eastern Arabian Peninsula;Eastern Arabian Peninsula
+352;Persian Gulf;Persian Gulf
+353;Southern Iran;Southern Iran
+354;Southwestern Pakistan;Southwestern Pakistan
+355;Gulf of Oman;Gulf of Oman
+356;Off Coast of Pakistan;Off Coast of Pakistan
+357;Ukraine–Moldova–Southwestern Russia Region;Ukraine–Moldova–Southwestern Russia Region
+358;Romania;Romania
+359;Bulgaria;Bulgaria
+360;Black Sea;Black Sea
+361;Crimea Region  Ukraine;Crimea Region
+362;Western Caucasus;Western Caucasus
+363;Greece–Bulgaria Border Region;Greece–Bulgaria Border Region
+364;Greece;Greece
+365;Aegean Sea;Aegean Sea
+366;Turkey;Turkey
+367;Georgia–Armenia–Turkey Border Region;Georgia–Armenia–Turkey Border Region
+368;Southern Greece;Southern Greece
+369;Dodecanese Islands  Greece;Dodecanese Islands
+370;Crete  Greece;Crete
+371;Eastern Mediterranean Sea;Eastern Mediterranean Sea
+372;Cyprus Region;Cyprus Region
+373;Dead Sea Region;Dead Sea Region
+374;Jordan–Syria Region;Jordan–Syria Region
+375;Iraq;Iraq
+376;Portugal;Portugal
+377;Spain;Spain
+378;Pyrenees;Pyrenees
+379;Near South Coast of France;Near South Coast of France
+380;Corsica  France;Corsica
+381;Central Italy;Central Italy
+382;Adriatic Sea;Adriatic Sea
+383;Northwestern Balkan Region;Northwestern Balkan Region
+384;West of Gibraltar;West of Gibraltar
+385;Strait of Gibraltar;Strait of Gibraltar
+386;Balearic Islands  Spain;Balearic Islands
+387;Western Mediterranean Sea;Western Mediterranean Sea
+388;Sardinia  Italy;Sardinia
+389;Tyrrhenian Sea;Tyrrhenian Sea
+390;Southern Italy;Southern Italy
+391;Albania;Albania
+392;Greece–Albania Border Region;Greece–Albania Border Region
+393;Madeira Islands  Portugal Region;Madeira Islands
+394;Canary Islands  Spain Region;Canary Islands
+395;Morocco;Morocco
+396;Northern Algeria;Northern Algeria
+397;Tunisia;Tunisia
+398;Sicily  Italy;Sicily
+399;Ionian Sea;Ionian Sea
+400;Central Mediterranean Sea;Central Mediterranean Sea
+401;Near Coast of Libya;Near Coast of Libya
+402;North Atlantic Ocean;North Atlantic Ocean
+403;Northern Mid-Atlantic Ridge;Northern Mid-Atlantic Ridge
+404;Azores Islands Region;Azores Islands Region
+405;Azores Islands  Portugal;Azores Islands
+406;Central Mid-Atlantic Ridge;Central Mid-Atlantic Ridge
+407;North of Ascension Island;North of Ascension Island
+408;Ascension Island Region;Ascension Island Region
+409;South Atlantic Ocean;South Atlantic Ocean
+410;Southern Mid-Atlantic Ridge;Southern Mid-Atlantic Ridge
+411;Tristan Da Cunha Region;Tristan Da Cunha Region
+412;Bouvet Island Region;Bouvet Island Region
+413;Southwest of Africa;Southwest of Africa
+414;Southeastern Atlantic Ocean;Southeastern Atlantic Ocean
+738;Reykjanes Ridge;Reykjanes Ridge
+739;Azores-Cape St. Vincent Ridge;Azores-Cape St. Vincent Ridge
+415;Eastern Gulf of Aden;Eastern Gulf of Aden
+416;Socotra Region;Socotra Region
+417;Arabian Sea;Arabian Sea
+418;Lakshadweep Region  India;Lakshadweep Region
+419;Northeastern Somalia;Northeastern Somalia
+420;North Indian Ocean;North Indian Ocean
+421;Carlsberg Ridge;Carlsberg Ridge
+422;Maldive Islands Region;Maldive Islands Region
+423;Laccadive Sea;Laccadive Sea
+424;Sri Lanka;Sri Lanka
+425;South Indian Ocean;South Indian Ocean
+426;Chagos Archipelago Region;Chagos Archipelago Region
+427;Mauritius-Réunion Region;Mauritius-Réunion Region
+428;Southwest Indian Ridge;Southwest Indian Ridge
+429;Mid-Indian Ridge;Mid-Indian Ridge
+430;South of Africa;South of Africa
+431;Prince Edward Islands Region;Prince Edward Islands Region
+432;Crozet Islands Region;Crozet Islands Region
+433;Kerguelen Islands Region;Kerguelen Islands Region
+434;Broken Ridge;Broken Ridge
+435;Southeast Indian Ridge;Southeast Indian Ridge
+436;Southern Kerguelen Plateau;Southern Kerguelen Plateau
+437;South of Australia;South of Australia
+740;Owen Fracture Zone Region;Owen Fracture Zone Region
+741;Indian Ocean Triple junction;Indian Ocean Triple junction
+742;Western Indian-Antarctic Ridge;Western Indian-Antarctic Ridge
+438;Saskatchewan  Canada;Saskatchewan
+439;Manitoba  Canada;Manitoba
+440;Hudson Bay;Hudson Bay
+441;Ontario  Canada;Ontario
+442;Hudson Strait Region  Canada;Hudson Strait Region
+443;Northern Québec  Canada;Northern Québec
+444;Davis Strait;Davis Strait
+445;Labrador  Canada;Labrador
+446;Labrador Sea;Labrador Sea
+447;Southern Québec  Canada;Southern Québec
+448;Gaspe Peninsula  Canada;Gaspe Peninsula
+449;Eastern Québec  Canada;Eastern Québec
+450;Anticosti Island  Canada;Anticosti Island
+451;New Brunswick  Canada;New Brunswick
+452;Nova Scotia  Canada;Nova Scotia
+453;Prince Edward Island  Canada;Prince Edward Island
+454;Gulf of St. Lawrence;Gulf of St. Lawrence
+455;Newfoundland  Canada;Newfoundland
+456;Montana;Montana
+457;Eastern Idaho;Eastern Idaho
+458;Hebgen Lake Region;Hebgen Lake Region
+459;Yellowstone Region  Wyoming;Yellowstone Region
+460;Wyoming;Wyoming
+461;North Dakota;North Dakota
+462;South Dakota;South Dakota
+463;Nebraska;Nebraska
+464;Minnesota;Minnesota
+465;Iowa;Iowa
+466;Wisconsin;Wisconsin
+467;Illinois;Illinois
+468;Michigan;Michigan
+469;Indiana;Indiana
+470;Southern Ontario  Canada;Southern Ontario
+471;Ohio;Ohio
+472;New York;New York
+473;Pennsylvania;Pennsylvania
+474;Vermont–New Hampshire Region;Vermont–New Hampshire Region
+475;Maine;Maine
+476;Southern New England;Southern New England
+477;Gulf of Maine;Gulf of Maine
+478;Utah;Utah
+479;Colorado;Colorado
+480;Kansas;Kansas
+481;Iowa–Missouri Border Region;Iowa–Missouri Border Region
+482;Missouri–Kansas Border Region;Missouri–Kansas Border Region
+483;Missouri;Missouri
+484;Missouri–Arkansas Border Region;Missouri–Arkansas Border Region
+485;Eastern Missouri;Eastern Missouri
+486;New Madrid  Missouri Region;New Madrid
+487;Cape Girardeau  Missouri Region;Cape Girardeau
+488;Southern Illinois;Southern Illinois
+489;Southern Indiana;Southern Indiana
+490;Kentucky;Kentucky
+491;West Virginia;West Virginia
+492;Virginia;Virginia
+493;Chesapeake Bay Region;Chesapeake Bay Region
+494;New Jersey;New Jersey
+495;Eastern Arizona;Eastern Arizona
+496;New Mexico;New Mexico
+497;Texas Panhandle Region;Texas Panhandle Region
+498;Western Texas;Western Texas
+499;Oklahoma;Oklahoma
+500;Central Texas;Central Texas
+501;Arkansas–Oklahoma Border Region;Arkansas–Oklahoma Border Region
+502;Arkansas;Arkansas
+503;Louisiana–Texas Border Region;Louisiana–Texas Border Region
+504;Louisiana;Louisiana
+505;Mississippi;Mississippi
+506;Tennessee;Tennessee
+507;Alabama;Alabama
+508;Western Florida;Western Florida
+509;Georgia  USA;Georgia
+510;Florida&–Georgia Border Region;Florida&–Georgia Border Region
+511;South Carolina;South Carolina
+512;North Carolina;North Carolina
+513;Off East Coast of United States;Off East Coast of United States
+514;Florida Peninsula;Florida Peninsula
+515;Bahama Islands;Bahama Islands
+516;Eastern Arizona–Sonora Border Region;Eastern Arizona–Sonora Border Region
+517;New Mexico–Chihuahua Border Region;New Mexico–Chihuahua Border Region
+518;Texas–Mexico Border Region;Texas–Mexico Border Region
+519;Southern Texas;Southern Texas
+520;Near Coast of Texas;Near Coast of Texas
+521;Chihuahua  Mexico;Chihuahua
+522;Northern Mexico;Northern Mexico
+523;Central Mexico;Central Mexico
+524;Jalisco  Mexico;Jalisco
+525;Veracruz  Mexico;Veracruz
+526;Gulf of Mexico;Gulf of Mexico
+527;Bay of Campeche;Bay of Campeche
+528;Brazil;Brazil
+529;Guyana;Guyana
+530;Suriname;Suriname
+531;French Guiana;French Guiana
+532;Ireland;Ireland
+533;United Kingdom;United Kingdom
+534;North Sea;North Sea
+535;Southern Norway;Southern Norway
+536;Sweden;Sweden
+537;Baltic Sea;Baltic Sea
+538;France;France
+539;Bay of Biscay;Bay of Biscay
+540;The Netherlands;The Netherlands
+541;Belgium;Belgium
+542;Denmark;Denmark
+543;Germany;Germany
+544;Switzerland;Switzerland
+545;Northern Italy;Northern Italy
+546;Austria;Austria
+547;Czech and Slovak Republics;Czech and Slovak Republics
+548;Poland;Poland
+549;Hungary;Hungary
+550;Northwest Africa;Northwest Africa
+551;Southern Algeria;Southern Algeria
+552;Libya;Libya
+553;Egypt;Egypt
+554;Red Sea;Red Sea
+555;Western Arabian Peninsula;Western Arabian Peninsula
+556;Chad Region;Chad Region
+557;Sudan;Sudan
+558;Ethiopia;Ethiopia
+559;Western Gulf of Aden;Western Gulf of Aden
+560;Northwestern Somalia;Northwestern Somalia
+561;Off South Coast of Northwest Africa;Off South Coast of Northwest Africa
+562;Cameroon;Cameroon
+563;Equatorial Guinea;Equatorial Guinea
+564;Central African Republic;Central African Republic
+565;Gabon;Gabon
+566;Republic of Congo;Republic of Congo
+567;Democratic Republic of Congo;Democratic Republic of Congo
+568;Uganda;Uganda
+569;Lake Victoria Region;Lake Victoria Region
+570;Kenya;Kenya
+571;Southern Somalia;Southern Somalia
+572;Lake Tanganjika Region;Lake Tanganjika Region
+573;Tanzania;Tanzania
+574;Northwest of Madagascar;Northwest of Madagascar
+575;Angola;Angola
+576;Zambia;Zambia
+577;Malawi;Malawi
+578;Namibia;Namibia
+579;Botswana;Botswana
+580;Zimbabwe;Zimbabwe
+581;Mozambique;Mozambique
+582;Mozambique Channel;Mozambique Channel
+583;Madagascar;Madagascar
+584;South Africa;South Africa
+585;Lesotho;Lesotho
+586;Swaziland;Swaziland
+587;Off Coast of South Africa;Off Coast of South Africa
+743;Western Sahara;Western Sahara
+744;Mauritania;Mauritania
+745;Mali;Mali
+746;Senegal–Gambia Region;Senegal–Gambia Region
+747;Guinea Region;Guinea Region
+748;Sierra Leone;Sierra Leone
+749;Liberia Region;Liberia Region
+750;Côte d'Ivoire;Côte d'Ivoire
+751;Burkina Faso;Burkina Faso
+752;Ghana;Ghana
+753;Benin–Togo Region;Benin–Togo Region
+754;Niger;Niger
+755;Nigeria;Nigeria
+588;Northwest of Australia;Northwest of Australia
+589;West of Australia;West of Australia
+590;Western Australia;Western Australia
+591;Northern Territory  Australia;Northern Territory
+592;South Australia;South Australia
+593;Gulf of Carpentaria;Gulf of Carpentaria
+594;Queensland  Australia;Queensland
+595;Coral Sea;Coral Sea
+596;Northwest of New Caledonia;Northwest of New Caledonia
+597;Southwest of New Caledonia;Southwest of New Caledonia
+598;Southwest of Australia;Southwest of Australia
+599;Off South Coast of Australia;Off South Coast of Australia
+600;Near Coast of South Australia;Near Coast of South Australia
+601;New South Wales  Australia;New South Wales
+602;Victoria  Australia;Victoria
+603;Near Southeastern Coast of Australia;Near Southeastern Coast of Australia
+604;Near East Coast of Australia;Near East Coast of Australia
+605;East of Australia;East of Australia
+606;Norfolk Island Region;Norfolk Island Region
+607;Northwest of New Zealand;Northwest of New Zealand
+608;Bass Strait;Bass Strait
+609;Tasmania Region  Australia Region;Tasmania Region
+610;Southeast of Australia;Southeast of Australia
+611;North Pacific Ocean;North Pacific Ocean
+612;Hawaiian Islands Region;Hawaiian Islands Region
+613;Hawaii;Hawaii
+614;Eastern Caroline Islands  Micronesia;Eastern Caroline Islands
+615;Marshall Islands Region;Marshall Islands Region
+616;Enewetak Atoll Region  Marshall Islands;Enewetak Atoll Region
+617;Bikini Atoll Region  Marshall Islands;Bikini Atoll Region
+618;Gilbert Islands  Kiribati Region;Gilbert Islands
+619;Johnston Island Region;Johnston Island Region
+620;Line Islands Region  Kiribati;Line Islands Region
+621;Palmyra Island Region  Kiribati;Palmyra Island Region
+622;Kiritimati Region  Kiribati;Kiritimati Region
+623;Tuvalu Region;Tuvalu Region
+624;Phoenix Islands  Kiribati Region;Phoenix Islands
+625;Tokelau Islands Region;Tokelau Islands Region
+626;Northern Cook Islands;Northern Cook Islands
+627;Cook Islands Region;Cook Islands Region
+628;Society Islands Region;Society Islands Region
+629;Tubuai Islands Region;Tubuai Islands Region
+630;Marquesas Islands Region;Marquesas Islands Region
+631;Tuamotu Archipelago Region;Tuamotu Archipelago Region
+632;South Pacific Ocean;South Pacific Ocean
+633;Lomonosov Ridge;Lomonosov Ridge
+634;Arctic Ocean;Arctic Ocean
+635;Near North Coast of Greenland;Near North Coast of Greenland
+636;Eastern Greenland;Eastern Greenland
+637;Iceland Region;Iceland Region
+638;Iceland;Iceland
+639;Jan Mayen Island Region;Jan Mayen Island Region
+640;Greenland Sea;Greenland Sea
+641;North of Svalbard;North of Svalbard
+642;Norwegian Sea;Norwegian Sea
+643;Svalbard Region;Svalbard Region
+644;North of Franz Josef Land;North of Franz Josef Land
+645;Franz Josef Land  Russia;Franz Josef Land
+646;Northern Norway;Northern Norway
+647;Barents Sea;Barents Sea
+648;Novaya Zemlya  Russia;Novaya Zemlya
+649;Kara Sea;Kara Sea
+650;Near Coast of Western Siberia  Russia;Near Coast of Western Siberia
+651;North of Severnaya Zemlya;North of Severnaya Zemlya
+652;Severnaya Zemlya  Russia;Severnaya Zemlya
+653;Near Coast of Central Siberia  Russia;Near Coast of Central Siberia
+654;East of Severnaya Zemlya  Russia;East of Severnaya Zemlya
+655;Laptev Sea;Laptev Sea
+656;Southeastern Siberia  Russia;Southeastern Siberia
+657;Eastern Russia–Northeastern China Border Region;Eastern Russia–Northeastern China Border Region
+658;Northeastern China;Northeastern China
+659;North Korea;North Korea
+660;Sea of Japan;Sea of Japan
+661;Primor'ye  Russia;Primor'ye
+662;Sakhalin  Russia;Sakhalin
+663;Sea of Okhotsk;Sea of Okhotsk
+664;Southeastern China;Southeastern China
+665;Yellow Sea;Yellow Sea
+666;Off East Coast of Eastern China;Off East Coast of Eastern China
+667;North of New Siberian Islands;North of New Siberian Islands
+668;New Siberian Islands  Russia;New Siberian Islands
+669;East Siberian Sea;East Siberian Sea
+670;Near North Coast of Eastern Siberia;Near North Coast of Eastern Siberia
+671;Eastern Siberia  Russia;Eastern Siberia
+672;Chukchi Sea;Chukchi Sea
+673;Bering Strait;Bering Strait
+674;St. Lawrence Island  Alaska Region;St. Lawrence Island
+675;Beaufort Sea;Beaufort Sea
+676;Northern Alaska;Northern Alaska
+677;Northern Yukon Territory  Canada;Northern Yukon Territory
+678;Queen Elizabeth Islands  Canada;Queen Elizabeth Islands
+679;Northwest Territories–Nunavut  Canada;Northwest Territories–Nunavut
+680;Western Greenland;Western Greenland
+681;Baffin Bay;Baffin Bay
+682;Baffin Island Region  Canada;Baffin Island Region
+683;Southeast Central Pacific Ocean;Southeast Central Pacific Ocean
+684;Southern East Pacific Rise;Southern East Pacific Rise
+685;Easter Island Region;Easter Island Region
+686;West Chile Rise;West Chile Rise
+687;Juan Fernandez Islands Region;Juan Fernandez Islands Region
+688;East of North Island  New Zealand;East of North Island
+689;Chatham Islands  New Zealand Region;Chatham Islands
+690;South of Chatham Islands;South of Chatham Islands
+691;Pacific-Antarctic Ridge;Pacific-Antarctic Ridge
+692;Southern Pacific Ocean;Southern Pacific Ocean
+756;Southeast of Easter Island;Southeast of Easter Island
+693;East Central Pacific Ocean;East Central Pacific Ocean
+694;Central East Pacific Rise;Central East Pacific Rise
+695;West of Galápagos Islands;West of Galápagos Islands
+696;Galápagos Islands Region;Galápagos Islands Region
+697;Galápagos Islands  Ecuador;Galápagos Islands
+698;Southwest of Galápagos Islands;Southwest of Galápagos Islands
+699;Southeast of Galápagos Islands;Southeast of Galápagos Islands
+757;Galápagos Triple Junction Region;Galápagos Triple Junction Region
+700;South of Tasmania;South of Tasmania
+701;West of Macquarie Island;West of Macquarie Island
+702;Balleny Islands Region;Balleny Islands Region
+703;Andaman Islands  India Region;Andaman Islands
+704;Nicobar Islands  India Region;Nicobar Islands
+705;Off West Coast of Northern Sumatra;Off West Coast of Northern Sumatra
+706;Northern Sumatra  Indonesia;Northern Sumatra
+707;Malay Peninsula;Malay Peninsula
+708;Gulf of Thailand;Gulf of Thailand
+709;Southeastern Afghanistan;Southeastern Afghanistan
+710;Pakistan;Pakistan
+711;Southwestern Kashmir;Southwestern Kashmir
+712;India–Pakistan Border Region;India–Pakistan Border Region
+713;Central Kazakhstan;Central Kazakhstan
+714;Southeastern Uzbekistan;Southeastern Uzbekistan
+715;Tajikistan;Tajikistan
+716;Kyrgyzstan;Kyrgyzstan
+717;Afghanistan–Tajikistan Border Region;Afghanistan–Tajikistan Border Region
+718;Hindu Kush Region  Afghanistan;Hindu Kush Region
+719;Tajikistan–Xinjiang Border Region;Tajikistan–Xinjiang Border Region
+720;Northwestern Kashmir;Northwestern Kashmir
+721;Finland;Finland
+722;Norway–Russia Border Region;Norway–Russia Border Region
+723;Finland–Russia Border Region;Finland–Russia Border Region
+724;Baltic–Belarus–Northwestern Russia Region;Baltic–Belarus–Northwestern Russia Region
+725;Northwestern Siberia  Russia;Northwestern Siberia
+726;Northcentral Siberia  Russia;Northcentral Siberia
+727;Victoria Land  Antarctica;Victoria Land
+728;Ross Sea;Ross Sea
+729;Antarctica;Antarctica
