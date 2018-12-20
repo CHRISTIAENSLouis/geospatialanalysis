@@ -26,7 +26,7 @@ Index;Region;RSS
 25;Vancouver Island  Canada Region;Vancouver Island
 26;Off Coast of Washington;Off Coast of Washington
 27;Near Coast of Washington;Near Coast of Washington
-28;Washington–Oregon Border Region;Washington–Oregon Border Region
+28;Washington-Oregon Border Region;Washington-Oregon Border Region
 29;Washington;Washington
 30;Off Coast of Oregon;Off Coast of Oregon
 31;Near Coast of Oregon;Near Coast of Oregon
@@ -38,13 +38,13 @@ Index;Region;RSS
 37;Nevada;Nevada
 38;Off Coast of California;Off Coast of California
 39;Central California;Central California
-40;California–Nevada Border Region;California–Nevada Border Region
+40;California-Nevada Border Region;California-Nevada Border Region
 41;Southern Nevada;Southern Nevada
 42;Western Arizona;Western Arizona
 43;Southern California;Southern California
-44;California–Arizona Border Region;California–Arizona Border Region
-45;California–Baja California Border Region;California–Baja California Border Region
-46;Western Arizona–Sonora Border Region;Western Arizona–Sonora Border Region
+44;California-Arizona Border Region;California-Arizona Border Region
+45;California-Baja California Border Region;California-Baja California Border Region
+46;Western Arizona-Sonora Border Region;Western Arizona-Sonora Border Region
 47;Off Western Coast of Baja California;Off Western Coast of Baja California
 48;Baja California  Mexico;Baja California
 49;Gulf of California;Gulf of California
@@ -60,7 +60,7 @@ Index;Region;RSS
 59;Guerrero  Mexico;Guerrero
 60;Oaxaca  Mexico;Oaxaca
 61;Chiapas  Mexico;Chiapas
-62;Mexico–Guatemala Border Region;Mexico–Guatemala Border Region
+62;Mexico-Guatemala Border Region;Mexico-Guatemala Border Region
 63;Off Coast of Mexico;Off Coast of Mexico
 64;Off Coast of Michoacan  Mexico;Off Coast of Michoacan
 65;Off Coast of Guerrero  Mexico;Off Coast of Guerrero
@@ -79,11 +79,11 @@ Index;Region;RSS
 77;Off Coast of Costa Rica;Off Coast of Costa Rica
 78;Costa Rica;Costa Rica
 79;North of Panama;North of Panama
-80;Panama–Costa Rica Border Region;Panama–Costa Rica Border Region
+80;Panama-Costa Rica Border Region;Panama-Costa Rica Border Region
 81;Panama;Panama
-82;Panama–Colombia Border Region;Panama–Colombia Border Region
+82;Panama-Colombia Border Region;Panama-Colombia Border Region
 83;South of Panama;South of Panama
-84;Yucatán Peninsula  Mexico;Yucatán Peninsula
+84;YucatÃ¡n Peninsula  Mexico;YucatÃ¡n Peninsula
 85;Cuba Region;Cuba Region
 86;Jamaica Region;Jamaica Region
 87;Haiti Region;Haiti Region
@@ -106,28 +106,28 @@ Index;Region;RSS
 103;Colombia;Colombia
 104;Off Coast of Ecuador;Off Coast of Ecuador
 105;Near Coast of Ecuador;Near Coast of Ecuador
-106;Colombia–Ecuador Border Region;Colombia–Ecuador Border Region
+106;Colombia-Ecuador Border Region;Colombia-Ecuador Border Region
 107;Ecuador;Ecuador
 108;Off Coast of Northern Peru;Off Coast of Northern Peru
 109;Near Coast of Northern Peru;Near Coast of Northern Peru
-110;Peru–Ecuador Border Region;Peru–Ecuador Border Region
+110;Peru-Ecuador Border Region;Peru-Ecuador Border Region
 111;Northern Peru;Northern Peru
-112;Peru–Brazil Border Region;Peru–Brazil Border Region
+112;Peru-Brazil Border Region;Peru-Brazil Border Region
 113;Western Brazil;Western Brazil
 114;Off Coast of Peru;Off Coast of Peru
 115;Near Coast of Peru;Near Coast of Peru
 116;Central Peru;Central Peru
 117;Southern Peru;Southern Peru
-118;Peru–Bolivia Border Region;Peru–Bolivia Border Region
+118;Peru-Bolivia Border Region;Peru-Bolivia Border Region
 119;Northern Bolivia;Northern Bolivia
 120;Central Bolivia;Central Bolivia
 121;Off Coast of Northern Chile;Off Coast of Northern Chile
 122;Near Coast of Northern Chile;Near Coast of Northern Chile
 123;Northern Chile;Northern Chile
-124;Chile–Bolivia Border Region;Chile–Bolivia Border Region
+124;Chile-Bolivia Border Region;Chile-Bolivia Border Region
 125;Southern Bolivia;Southern Bolivia
 126;Paraguay;Paraguay
-127;Chile–Argentina Border Region;Chile–Argentina Border Region
+127;Chile-Argentina Border Region;Chile-Argentina Border Region
 128;Jujuy Province  Argentina;Jujuy Province
 129;Salta Province  Argentina;Salta Province
 130;Catamarca Province  Argentina;Catamarca Province
@@ -145,7 +145,7 @@ Index;Region;RSS
 142;Uruguay;Uruguay
 143;Off Coast of Southern Chile;Off Coast of Southern Chile
 144;Southern Chile;Southern Chile
-145;Southern Chile–Argentina Border Region;Southern Chile–Argentina Border Region
+145;Southern Chile-Argentina Border Region;Southern Chile-Argentina Border Region
 146;Southern Argentina;Southern Argentina
 147;Tierra Del Fuego;Tierra Del Fuego
 148;Falkland Islands Region;Falkland Islands Region
@@ -295,10 +295,10 @@ Index;Region;RSS
 291;South of Sumbawa  Indonesia;South of Sumbawa
 292;South of Sumba  Indonesia;South of Sumba
 293;South of Timor  Indonesia;South of Timor
-294;Myanmar–India Border Region;Myanmar–India Border Region
-295;Myanmar–Bangladesh Border Region;Myanmar–Bangladesh Border Region
+294;Myanmar-India Border Region;Myanmar-India Border Region
+295;Myanmar-Bangladesh Border Region;Myanmar-Bangladesh Border Region
 296;Myanmar;Myanmar
-297;Myanmar–China Border Region;Myanmar–China Border Region
+297;Myanmar-China Border Region;Myanmar-China Border Region
 298;Near South Coast of Myanmar;Near South Coast of Myanmar
 299;Southeast Asia;Southeast Asia
 300;Hainan Island  China;Hainan Island
@@ -309,9 +309,9 @@ Index;Region;RSS
 736;Vietnam;Vietnam
 737;Gulf of Tongking;Gulf of Tongking
 302;Eastern Kashmir;Eastern Kashmir
-303;Kashmir–India Border Region;Kashmir–India Border Region
-304;Kashmir–Xizang Border Region;Kashmir–Xizang Border Region
-305;Western Xizang–India Border Region;Western Xizang–India Border Region
+303;Kashmir-India Border Region;Kashmir-India Border Region
+304;Kashmir-Xizang Border Region;Kashmir-Xizang Border Region
+305;Western Xizang-India Border Region;Western Xizang-India Border Region
 306;Xizang;Xizang
 307;Sichuan  China;Sichuan
 308;Northern India;Northern India
@@ -319,27 +319,27 @@ Index;Region;RSS
 310;Nepal;Nepal
 311;Sikkim  India;Sikkim
 312;Bhutan;Bhutan
-313;Eastern Xizang–India Border Region;Eastern Xizang–India Border Region
+313;Eastern Xizang-India Border Region;Eastern Xizang-India Border Region
 314;Southern India;Southern India
-315;India–Bangladesh Border Region;India–Bangladesh Border Region
+315;India-Bangladesh Border Region;India-Bangladesh Border Region
 316;Bangladesh;Bangladesh
 317;Northeastern India;Northeastern India
 318;Yunnan  China;Yunnan
 319;Bay of Bengal;Bay of Bengal
-320;Kyrgyzstan–Xinjiang Border Region;Kyrgyzstan–Xinjiang Border Region
+320;Kyrgyzstan-Xinjiang Border Region;Kyrgyzstan-Xinjiang Border Region
 321;Southern Xinjiang  China;Southern Xinjiang
 322;Gansu  China;Gansu
 323;Western Nei Mongol  China;Western Nei Mongol
-324;Kashmir–Xinjiang Border Region;Kashmir–Xinjiang Border Region
+324;Kashmir-Xinjiang Border Region;Kashmir-Xinjiang Border Region
 325;Qinghai  China;Qinghai
 326;Southwestern Siberia  Russia;Southwestern Siberia
 327;Lake Baykal Region  Russia;Lake Baykal Region
 328;East of Lake Baykal  Russia;East of Lake Baykal
 329;Eastern Kazakhstan;Eastern Kazakhstan
 330;Lake Issyk-Kul region;Lake Issyk-Kul region
-331;Kazakhstan–Xinjiang Border Region;Kazakhstan–Xinjiang Border Region
+331;Kazakhstan-Xinjiang Border Region;Kazakhstan-Xinjiang Border Region
 332;Northern Xinjiang  China;Northern Xinjiang
-333;Russia–Mongolia Border Region;Russia–Mongolia Border Region
+333;Russia-Mongolia Border Region;Russia-Mongolia Border Region
 334;Mongolia;Mongolia
 335;Ural Mountains Region  Russia;Ural Mountains Region
 336;Western Kazakhstan;Western Kazakhstan
@@ -347,12 +347,12 @@ Index;Region;RSS
 338;Caspian Sea;Caspian Sea
 339;Northwestern Uzbekistan;Northwestern Uzbekistan
 340;Turkmenistan;Turkmenistan
-341;Turkmenistan–Iran Border Region;Turkmenistan–Iran Border Region
-342;Turkmenistan–Afghanistan Border Region;Turkmenistan–Afghanistan Border Region
-343;Turkey–Iran Border Region;Turkey–Iran Border Region
-344;Armenia–Azerbaijan–Iran Border Region;Armenia–Azerbaijan–Iran Border Region
+341;Turkmenistan-Iran Border Region;Turkmenistan-Iran Border Region
+342;Turkmenistan-Afghanistan Border Region;Turkmenistan-Afghanistan Border Region
+343;Turkey-Iran Border Region;Turkey-Iran Border Region
+344;Armenia-Azerbaijan-Iran Border Region;Armenia-Azerbaijan-Iran Border Region
 345;Northwestern Iran;Northwestern Iran
-346;Iran–Iraq Border Region;Iran–Iraq Border Region
+346;Iran-Iraq Border Region;Iran-Iraq Border Region
 347;Western Iran;Western Iran
 348;Northern and Central Iran;Northern and Central Iran
 349;Northwestern Afghanistan;Northwestern Afghanistan
@@ -363,24 +363,24 @@ Index;Region;RSS
 354;Southwestern Pakistan;Southwestern Pakistan
 355;Gulf of Oman;Gulf of Oman
 356;Off Coast of Pakistan;Off Coast of Pakistan
-357;Ukraine–Moldova–Southwestern Russia Region;Ukraine–Moldova–Southwestern Russia Region
+357;Ukraine-Moldova-Southwestern Russia Region;Ukraine-Moldova-Southwestern Russia Region
 358;Romania;Romania
 359;Bulgaria;Bulgaria
 360;Black Sea;Black Sea
 361;Crimea Region  Ukraine;Crimea Region
 362;Western Caucasus;Western Caucasus
-363;Greece–Bulgaria Border Region;Greece–Bulgaria Border Region
+363;Greece-Bulgaria Border Region;Greece-Bulgaria Border Region
 364;Greece;Greece
 365;Aegean Sea;Aegean Sea
 366;Turkey;Turkey
-367;Georgia–Armenia–Turkey Border Region;Georgia–Armenia–Turkey Border Region
+367;Georgia-Armenia-Turkey Border Region;Georgia-Armenia-Turkey Border Region
 368;Southern Greece;Southern Greece
 369;Dodecanese Islands  Greece;Dodecanese Islands
 370;Crete  Greece;Crete
 371;Eastern Mediterranean Sea;Eastern Mediterranean Sea
 372;Cyprus Region;Cyprus Region
 373;Dead Sea Region;Dead Sea Region
-374;Jordan–Syria Region;Jordan–Syria Region
+374;Jordan-Syria Region;Jordan-Syria Region
 375;Iraq;Iraq
 376;Portugal;Portugal
 377;Spain;Spain
@@ -398,7 +398,7 @@ Index;Region;RSS
 389;Tyrrhenian Sea;Tyrrhenian Sea
 390;Southern Italy;Southern Italy
 391;Albania;Albania
-392;Greece–Albania Border Region;Greece–Albania Border Region
+392;Greece-Albania Border Region;Greece-Albania Border Region
 393;Madeira Islands  Portugal Region;Madeira Islands
 394;Canary Islands  Spain Region;Canary Islands
 395;Morocco;Morocco
@@ -435,7 +435,7 @@ Index;Region;RSS
 424;Sri Lanka;Sri Lanka
 425;South Indian Ocean;South Indian Ocean
 426;Chagos Archipelago Region;Chagos Archipelago Region
-427;Mauritius-Réunion Region;Mauritius-Réunion Region
+427;Mauritius-RÃ©union Region;Mauritius-RÃ©union Region
 428;Southwest Indian Ridge;Southwest Indian Ridge
 429;Mid-Indian Ridge;Mid-Indian Ridge
 430;South of Africa;South of Africa
@@ -454,13 +454,13 @@ Index;Region;RSS
 440;Hudson Bay;Hudson Bay
 441;Ontario  Canada;Ontario
 442;Hudson Strait Region  Canada;Hudson Strait Region
-443;Northern Québec  Canada;Northern Québec
+443;Northern QuÃ©bec  Canada;Northern QuÃ©bec
 444;Davis Strait;Davis Strait
 445;Labrador  Canada;Labrador
 446;Labrador Sea;Labrador Sea
-447;Southern Québec  Canada;Southern Québec
+447;Southern QuÃ©bec  Canada;Southern QuÃ©bec
 448;Gaspe Peninsula  Canada;Gaspe Peninsula
-449;Eastern Québec  Canada;Eastern Québec
+449;Eastern QuÃ©bec  Canada;Eastern QuÃ©bec
 450;Anticosti Island  Canada;Anticosti Island
 451;New Brunswick  Canada;New Brunswick
 452;Nova Scotia  Canada;Nova Scotia
@@ -485,17 +485,17 @@ Index;Region;RSS
 471;Ohio;Ohio
 472;New York;New York
 473;Pennsylvania;Pennsylvania
-474;Vermont–New Hampshire Region;Vermont–New Hampshire Region
+474;Vermont-New Hampshire Region;Vermont-New Hampshire Region
 475;Maine;Maine
 476;Southern New England;Southern New England
 477;Gulf of Maine;Gulf of Maine
 478;Utah;Utah
 479;Colorado;Colorado
 480;Kansas;Kansas
-481;Iowa–Missouri Border Region;Iowa–Missouri Border Region
-482;Missouri–Kansas Border Region;Missouri–Kansas Border Region
+481;Iowa-Missouri Border Region;Iowa-Missouri Border Region
+482;Missouri-Kansas Border Region;Missouri-Kansas Border Region
 483;Missouri;Missouri
-484;Missouri–Arkansas Border Region;Missouri–Arkansas Border Region
+484;Missouri-Arkansas Border Region;Missouri-Arkansas Border Region
 485;Eastern Missouri;Eastern Missouri
 486;New Madrid  Missouri Region;New Madrid
 487;Cape Girardeau  Missouri Region;Cape Girardeau
@@ -512,24 +512,24 @@ Index;Region;RSS
 498;Western Texas;Western Texas
 499;Oklahoma;Oklahoma
 500;Central Texas;Central Texas
-501;Arkansas–Oklahoma Border Region;Arkansas–Oklahoma Border Region
+501;Arkansas-Oklahoma Border Region;Arkansas-Oklahoma Border Region
 502;Arkansas;Arkansas
-503;Louisiana–Texas Border Region;Louisiana–Texas Border Region
+503;Louisiana-Texas Border Region;Louisiana-Texas Border Region
 504;Louisiana;Louisiana
 505;Mississippi;Mississippi
 506;Tennessee;Tennessee
 507;Alabama;Alabama
 508;Western Florida;Western Florida
 509;Georgia  USA;Georgia
-510;Florida&–Georgia Border Region;Florida&–Georgia Border Region
+510;Florida&-Georgia Border Region;Florida&-Georgia Border Region
 511;South Carolina;South Carolina
 512;North Carolina;North Carolina
 513;Off East Coast of United States;Off East Coast of United States
 514;Florida Peninsula;Florida Peninsula
 515;Bahama Islands;Bahama Islands
-516;Eastern Arizona–Sonora Border Region;Eastern Arizona–Sonora Border Region
-517;New Mexico–Chihuahua Border Region;New Mexico–Chihuahua Border Region
-518;Texas–Mexico Border Region;Texas–Mexico Border Region
+516;Eastern Arizona-Sonora Border Region;Eastern Arizona-Sonora Border Region
+517;New Mexico-Chihuahua Border Region;New Mexico-Chihuahua Border Region
+518;Texas-Mexico Border Region;Texas-Mexico Border Region
 519;Southern Texas;Southern Texas
 520;Near Coast of Texas;Near Coast of Texas
 521;Chihuahua  Mexico;Chihuahua
@@ -602,14 +602,14 @@ Index;Region;RSS
 743;Western Sahara;Western Sahara
 744;Mauritania;Mauritania
 745;Mali;Mali
-746;Senegal–Gambia Region;Senegal–Gambia Region
+746;Senegal-Gambia Region;Senegal-Gambia Region
 747;Guinea Region;Guinea Region
 748;Sierra Leone;Sierra Leone
 749;Liberia Region;Liberia Region
-750;Côte d'Ivoire;Côte d'Ivoire
+750;CÃ´te d'Ivoire;CÃ´te d'Ivoire
 751;Burkina Faso;Burkina Faso
 752;Ghana;Ghana
-753;Benin–Togo Region;Benin–Togo Region
+753;Benin-Togo Region;Benin-Togo Region
 754;Niger;Niger
 755;Nigeria;Nigeria
 588;Northwest of Australia;Northwest of Australia
@@ -681,7 +681,7 @@ Index;Region;RSS
 654;East of Severnaya Zemlya  Russia;East of Severnaya Zemlya
 655;Laptev Sea;Laptev Sea
 656;Southeastern Siberia  Russia;Southeastern Siberia
-657;Eastern Russia–Northeastern China Border Region;Eastern Russia–Northeastern China Border Region
+657;Eastern Russia-Northeastern China Border Region;Eastern Russia-Northeastern China Border Region
 658;Northeastern China;Northeastern China
 659;North Korea;North Korea
 660;Sea of Japan;Sea of Japan
@@ -703,7 +703,7 @@ Index;Region;RSS
 676;Northern Alaska;Northern Alaska
 677;Northern Yukon Territory  Canada;Northern Yukon Territory
 678;Queen Elizabeth Islands  Canada;Queen Elizabeth Islands
-679;Northwest Territories–Nunavut  Canada;Northwest Territories–Nunavut
+679;Northwest Territories-Nunavut  Canada;Northwest Territories-Nunavut
 680;Western Greenland;Western Greenland
 681;Baffin Bay;Baffin Bay
 682;Baffin Island Region  Canada;Baffin Island Region
@@ -720,12 +720,12 @@ Index;Region;RSS
 756;Southeast of Easter Island;Southeast of Easter Island
 693;East Central Pacific Ocean;East Central Pacific Ocean
 694;Central East Pacific Rise;Central East Pacific Rise
-695;West of Galápagos Islands;West of Galápagos Islands
-696;Galápagos Islands Region;Galápagos Islands Region
-697;Galápagos Islands  Ecuador;Galápagos Islands
-698;Southwest of Galápagos Islands;Southwest of Galápagos Islands
-699;Southeast of Galápagos Islands;Southeast of Galápagos Islands
-757;Galápagos Triple Junction Region;Galápagos Triple Junction Region
+695;West of GalÃ¡pagos Islands;West of GalÃ¡pagos Islands
+696;GalÃ¡pagos Islands Region;GalÃ¡pagos Islands Region
+697;GalÃ¡pagos Islands  Ecuador;GalÃ¡pagos Islands
+698;Southwest of GalÃ¡pagos Islands;Southwest of GalÃ¡pagos Islands
+699;Southeast of GalÃ¡pagos Islands;Southeast of GalÃ¡pagos Islands
+757;GalÃ¡pagos Triple Junction Region;GalÃ¡pagos Triple Junction Region
 700;South of Tasmania;South of Tasmania
 701;West of Macquarie Island;West of Macquarie Island
 702;Balleny Islands Region;Balleny Islands Region
@@ -738,19 +738,19 @@ Index;Region;RSS
 709;Southeastern Afghanistan;Southeastern Afghanistan
 710;Pakistan;Pakistan
 711;Southwestern Kashmir;Southwestern Kashmir
-712;India–Pakistan Border Region;India–Pakistan Border Region
+712;India-Pakistan Border Region;India-Pakistan Border Region
 713;Central Kazakhstan;Central Kazakhstan
 714;Southeastern Uzbekistan;Southeastern Uzbekistan
 715;Tajikistan;Tajikistan
 716;Kyrgyzstan;Kyrgyzstan
-717;Afghanistan–Tajikistan Border Region;Afghanistan–Tajikistan Border Region
+717;Afghanistan-Tajikistan Border Region;Afghanistan-Tajikistan Border Region
 718;Hindu Kush Region  Afghanistan;Hindu Kush Region
-719;Tajikistan–Xinjiang Border Region;Tajikistan–Xinjiang Border Region
+719;Tajikistan-Xinjiang Border Region;Tajikistan-Xinjiang Border Region
 720;Northwestern Kashmir;Northwestern Kashmir
 721;Finland;Finland
-722;Norway–Russia Border Region;Norway–Russia Border Region
-723;Finland–Russia Border Region;Finland–Russia Border Region
-724;Baltic–Belarus–Northwestern Russia Region;Baltic–Belarus–Northwestern Russia Region
+722;Norway-Russia Border Region;Norway-Russia Border Region
+723;Finland-Russia Border Region;Finland-Russia Border Region
+724;Baltic-Belarus-Northwestern Russia Region;Baltic-Belarus-Northwestern Russia Region
 725;Northwestern Siberia  Russia;Northwestern Siberia
 726;Northcentral Siberia  Russia;Northcentral Siberia
 727;Victoria Land  Antarctica;Victoria Land
