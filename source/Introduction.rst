@@ -19,3 +19,17 @@ This document will resume the approach of the students that chose the following 
 
 
 			**Use python packages to display an interactive map with data provided by EMSC**
+
+
+Here is an example of the kind of map they managed to build.
+
+.. raw:: html
+
+    <iframe src="_static/mindaomap.html" marginwidth="10" marginheight="10" scrolling="no" style="width:600px; height:375px; border:0; overflow:hidden;">
+    </iframe>
+
+
+
+
+
+
