@@ -11,7 +11,7 @@ Given the complexity and the width of this field of study, the class sessions ob
 
 
 In order to restrict the amount of things to study in this short period of time, the students are broughts to define a final project.
-Then they can use this as a guidance thread to lead their researchs.
+Then they can use this as a guidance thread to lead their researches.
 
 
 

@@ -1,4 +1,4 @@
-print("This code was designed to work with Python 3.8.2 and the following packages :\nfeedparser 5.1.3\npandas 0.18.1\nnumpy 1.11.1\nfolium 0.7.0\nmatplotlib 1.5.1\nbranca 0.3.1\njinja2 2.8 ")
+print("This code was designed to work with Python 3.8.2 and the following packages :\nfeedparser 5.1.3\npandas 0.18.1\nnumpy 1.11.1\nfolium 0.7.0\nbranca 0.3.1\njinja2 2.8 ")
 
 #Importing all the packages
 
@@ -6,7 +6,7 @@ import feedparser #5.1.3
 import pandas as pd #0.18.1
 import numpy as np #1.11.1
 import folium #0.7.0
-import matplotlib #1.5.1
+
 
 from folium import branca #0.3.1
 from folium.plugins import MarkerCluster
@@ -35,9 +35,7 @@ areas = pd.read_csv("areas.csv", delimiter = ';',  encoding='latin-1')
 
 
 selected = []
-
 proceed = True
-
 #As long as the user wants to add areas to his map, this part of the code will loop
 
 while (proceed == True):
@@ -49,7 +47,7 @@ while (proceed == True):
     # Recovering all the areas that could match user's request
     matching = [s for s in areas['Region'] if area in s]
 
-    # Displaying a basic dropdown list to confirm user's choice
+    # Displaying a basic drop down list to confirm user's choice
     def select():
         global selected
         selected.append(var.get())
@@ -168,7 +166,6 @@ for p in df['date']:
 
 
 #Magnitude layer
-
 
 #Defining a linear color scale based on the most extremes magnitude we have to display
 
@@ -402,7 +399,7 @@ m.add_child(linear_magn).add_child(linear_prof).add_child(macro)
 
 #Binding colormaps and layers using the "BlindColormap" function defined above
                              
-m.add_child(BindColormap(cmagn,linear_magn)).add_child(BindColormap(cprof, linear_prof)).add_child(BindColormap(cdate, macro))
+m.add_child(BindColormap(cmagn,linear_magn)).add_child(BindColormap(cprof, linear_prof))
 
 #Save the map
 outf = "map.html"

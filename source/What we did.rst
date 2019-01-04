@@ -52,7 +52,7 @@ The data we recover from those RSS is :
 
 * The location of the earthquake in WGS84
 * The magnitude of the earthquake
-* The depth at wich the earthquake occurend
+* The depth at wich the earthquake occured
 * The date of the earthquake
 
 
@@ -63,8 +63,8 @@ Code flow
 From the moment we compile the code, a sequence of operations starts. Here is a summary of the how the code flows :
 
 * 1) The user is asked to define roughly the area he is interested in (For example, the name of the country)
-* 2) Since flinn engdahl regions are not used by most of the people, a dropdown list (as shown below) appears to help the user selecting the areas he wants to display
-* 3) After closing the dropdownlist window, the user chooses if he wants to add more areas to his selection
+* 2) Since flinn engdahl regions are not used by most of the people, a drop down list (as shown below) appears to help the user selecting the areas he wants to display
+* 3) After closing the drop downlist window, the user chooses if he wants to add more areas to his selection
 * 4) When the selection phase is over, the data is retrieved from RSS feeds
 * 5) Finally, the code use the data to create the map
 
@@ -78,7 +78,7 @@ The first step is to import the packages our code need as well as the static dat
 
 ::
 
-	print("This code was designed to work with Python 3.8.2 and the following packages :\nfeedparser 5.1.3\npandas 0.18.1\nnumpy 1.11.1\nfolium 0.7.0\nmatplotlib 1.5.1\nbranca 0.3.1\njinja2 2.8\ndatetime ")
+	print("This code was designed to work with Python 3.8.2 and the following packages :\nfeedparser 5.1.3\npandas 0.18.1\nnumpy 1.11.1\nfolium 0.7.0\nbranca 0.3.1\njinja2 2.8\ndatetime ")
 
 	#Importing all the packages
 
@@ -86,7 +86,6 @@ The first step is to import the packages our code need as well as the static dat
 	import pandas as pd #0.18.1
 	import numpy as np #1.11.1
 	import folium #0.7.0
-	import matplotlib #1.5.1
 	
 	from folium import branca #0.3.1
 	from folium.plugins import MarkerCluster
@@ -148,7 +147,7 @@ The next step is to define the list of areas the user wants to display.
 	    # Recovering all the areas that could match user's request
 	    matching = [s for s in areas['Region'] if area in s]
 	
-	    # Displaying a basic dropdown list to confirm user's choice
+	    # Displaying a basic drop down list to confirm user's choice
 	    def select():
 	        global selected
 	        selected.append(var.get())
@@ -178,7 +177,7 @@ The next step is to define the list of areas the user wants to display.
 	    else :
 	        proceed = False
 
-Here is an example of the kind dropdown list proposed to the user.
+Here is an example of the kind drop down list proposed to the user.
 In this case, the user asked to display an area located in Alaska.
 
 .. figure:: /_static/selectionarea.PNG
@@ -188,7 +187,7 @@ In this case, the user asked to display an area located in Alaska.
     :alt: alternate text
     :figclass: align-center
 
-    Dropdown list
+    Drop down list
 
 
 
@@ -341,7 +340,7 @@ The map we want to display will be composed of four layers :
 Each superficial layer is associated to a specific color scale.
 
 
-The layers related to depth and magnitude are very similar. Therefore, we will only detail the creation of one of these layers in this documention.
+The layers related to depth and magnitude are very similar. Therefore, we will only detail the creation of one of these layers in this documentation.
 
 ::
 

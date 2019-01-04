@@ -27,11 +27,11 @@ Here after, you can find the list of package we discovered during our research.
 Shapely
 --------
 
-Shapely is a Python package used to define and manipulate plane spatial object.
+Shapely is a Python package used to define and manipulate plane spatial objects.
 
 This package allowed us to create objects such as points, lines and polygons. Furthermore, this package provide several functions dedicated to those types of objects.
 
-For exemple, thanks to Shapely, we can can easily compute areas, distance and plot basic geometries.
+For example, thanks to Shapely, we can can easily compute areas, distance and plot basic geometries.
 
 
 
@@ -116,7 +116,7 @@ Here are the links of the main websites we used to discover this package :
 Matplotlib
 --------
 
-Matplotlib is the package used to display all the object we create while coding : Shapely Objects, DataFrames, Maps, etc.
+Matplotlib is the package used to display all the objects we create while coding : Shapely Objects, DataFrames, Maps, etc.
 
 
 Feedparser
